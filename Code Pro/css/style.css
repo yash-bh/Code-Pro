@@ -1,0 +1,94 @@
+.navbar
+{
+    background-color: whitesmoke;
+}
+
+.nav-content
+{
+    float: right;
+}
+
+.header h1
+{
+    padding-top: 80px;
+    padding-bottom: 10px;
+    font-size: 50px;
+
+}
+.header p
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
+.btn
+{
+    width: 150px;
+    
+}
+.developer
+{
+    text-align: center;
+}
+.developer p
+{
+    font-size: 15px;
+    padding-bottom: 20px;
+
+}
+.developer1 p
+{
+    text-align: justify;
+    padding-top: 10px;
+
+}
+.row
+{
+    padding-bottom: 30px;
+}
+.developer2
+{
+    text-align: center;
+}
+.work
+{
+    text-align: center;
+}
+.icon-holder img
+{
+    width: 250px;
+}
+.icon-holder h3
+{
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+.company
+{
+    text-align: center;
+}
+.get-started
+{
+    text-align: center;
+}
+.integration
+{
+    text-align: center;
+}
+.rounded-circle
+{
+    width: 50%;
+}
+.docs
+{
+    text-align: center;
+}
+.docs1
+{
+    text-align: center;
+
+}
+.started 
+{
+    background-color: lightsteelblue;
+}
